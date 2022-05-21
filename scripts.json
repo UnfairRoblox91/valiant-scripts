@@ -86,6 +86,12 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/Code-Fludex/Lua-Scripts/main/AnimeFightersSim.lua"
     },
     {
+      "title": "Proxima Hub",
+      "author": "Trix#2794",
+      "imageURL": "https://robloxscripts.com/wp-content/uploads/2022/05/unknown-3.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"
+    },
+    {
       "title": "Super Hero Tycoon",
       "author": "Unknown",
       "imageURL": "https://t5.rbxcdn.com/eebbb0f8582fd1ef8ecc1d7b01e9397d",
@@ -134,6 +140,18 @@
       "scriptURLRaw": "https://capybaras.wtf/chat/grammar.lua"
     },
     {
+      "title": "Bedwars vape",
+      "author": "7GrandDad#6656",
+      "imageURL": "https://robloxscripts.com/wp-content/uploads/2022/01/Png-2-3-300x169.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"
+    },
+    {
+      "title": "Hitbox Expander",
+      "author": "GameOverAgain",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gyazo.com%2F80b39a68a82916ff4f1595c879c37c45.gif",
+      "scriptURLRaw": "http://gameovers.net/Scripts/Free/HitboxExpander/main.lua"
+    },
+    {
       "title": "SkyWars Scirpt Gui",
       "author": "Blockman",
       "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948805339812352090/Png-50.png",
@@ -163,7 +181,19 @@
       "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/945188804866768936/a0130398078_10.png", 
       "scriptURLRaw": "https://bruh.keshsenpai.com/.lua"
     },
-     {
+    {
+      "title": "OBBY RUN AUTO FARM", 
+      "author": "EzekielAspect#1699",
+      "imageURL": "https://robloxscripter.com/wp-content/uploads/jet-engine-forms/5/2022/05/Png-3-1.png", 
+      "scriptURLRaw": "https://raw.githubusercontent.com/oceanhong970201/robloxscript/main/Obby%20Run%20Gui.lua"
+    },
+    {
+      "title": "Youtube life", 
+      "author": "RegularVynixu",
+      "imageURL": "https://cdn.discordapp.com/attachments/901251185858711623/977525182304493619/unknown.png", 
+      "scriptURLRaw": "https://raw.githubusercontent.com/RegularVynixu/Scripts/main/YouTube%20Life/Auto%20Farm.lua"
+    },
+    {
       "title": "A Universal Time",
       "author": "Valiant team",
       "imageURL": "https://tr.rbxcdn.com/2c77e156b92ad97aad791394968b5696/512/512/Image/Jpeg",
@@ -186,6 +216,18 @@
       "author": "Fade#8495",
       "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948807157963423815/Png-34.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/FadeRemix/RND-Games/main/DestructionSim.lua"
+    },
+    {
+      "title": "Wacky Wizards",
+      "author": "ETBebo",
+      "imageURL": "https://cdn.cheat.gg/images/60ce4d7454f53.webp",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/WackyWizards.lua"
+    },
+    {
+      "title": "Static Hub",
+      "author": "SirWeeb",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894619966073106462/idkbro.jpg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/NovalineDev/Static-Hub/main/StaticHubLoader.lua"
     },
     {
       "title": "Blox Fruits",
