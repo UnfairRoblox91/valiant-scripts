@@ -151,11 +151,23 @@
       "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948812455121932368/hqdefault.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua"
     },
+     {
+      "title": "Da Hood (Valiant Scripts Collection)",
+      "author": "Valiant team",
+      "imageURL": "https://tr.rbxcdn.com/ad7f9e91a7c7057c32aeb9cd0471566f/512/512/Image/Jpeg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/KanekiCow/gamehubvaliant/main/da%20hood"
+    },
     {
       "title": "Bruh Hub", 
       "author": "Unknow..",
       "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/945188804866768936/a0130398078_10.png", 
       "scriptURLRaw": "https://bruh.keshsenpai.com/.lua"
+    },
+     {
+      "title": "A Universal Time",
+      "author": "Valiant team",
+      "imageURL": "https://tr.rbxcdn.com/2c77e156b92ad97aad791394968b5696/512/512/Image/Jpeg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/KanekiCow/gamehubvaliant/main/aut.lua"
     },
     {
       "title": "Shoot People Simulator",
@@ -174,6 +186,12 @@
       "author": "Fade#8495",
       "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948807157963423815/Png-34.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/FadeRemix/RND-Games/main/DestructionSim.lua"
+    },
+    {
+      "title": "Blox Fruits",
+      "author": "Valiant team",
+      "imageURL": "https://tr.rbxcdn.com/477f314e4dae65b6995e45f4df7f82bc/512/512/Image/Jpeg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/KanekiCow/gamehubvaliant/main/bloxfruit.lua"
     },
     {
       "title": "Project: Bursting Rage",
